@@ -7,7 +7,7 @@ function Home (){
     `;
     return <Wrapper>
         <a href="/coin-tracker">Coin-Tracker</a>
-        <a href="/toDo">To Do</a>
+        <a href="/todo">To Do</a>
         <a href="/nflix">NFlix</a>
     </Wrapper>;
 }
